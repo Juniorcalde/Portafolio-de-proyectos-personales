@@ -14,5 +14,6 @@ plt.title('Promedio de Calificación de los Sitios Turísticos')
 plt.xticks(rotation=45, ha='right')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 
+#prueba
 # Mostrar la gráfica
 plt.show()
